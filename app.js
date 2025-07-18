@@ -1,5 +1,5 @@
 let listaDeNumerosSorteados = [];
-let numeroLimite = 100; // aqui é o numero limite do jogo
+let numeroLimite = 50; // aqui é o numero limite do jogo
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
 // funçao para exibir o texto na tela
